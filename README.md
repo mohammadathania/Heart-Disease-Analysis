@@ -1,3 +1,3 @@
 # Heart-Disease-Classification
-![GitHub Logo](Heart Disease Analysis.png)
+![GitHub Logo](/images/Heart Disease Analysis.png)
 
