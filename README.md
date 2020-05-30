@@ -1,3 +1,2 @@
 # Heart-Disease-Classification
-![GitHub Logo](/images/Heart Disease Analysis.png)
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
